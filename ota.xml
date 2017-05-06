@@ -2,27 +2,27 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>Lineage 14.1</RomName>
-  <VersionName>magna_update_1</VersionName>
+  <VersionName>magna_test_update</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170517</VersionNumber>
+  <VersionNumber type="integer">20170507</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>https://github.com/xcore995/TEST/raw/master/builds/Lineage14.1_LedFix.zip</DirectUrl>
+  <DirectUrl>https://github.com/xcore995/TEST/raw/master/builds/Upadte1.zip</DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>06b4d4c804ac67bf95ac68e7eb62b725</CheckMD5>
+  <CheckMD5>98e9403df7fcf2b89fbfe5f64bda9780</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">420147739</FileSize>
+  <FileSize type="integer">302566</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>xcore_rj</Developer>
@@ -34,6 +34,6 @@
   <DonateURL>http://money.yandex.ru/to/410012996231186</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 20150105
-BLA BLA</Changelog>
+  <Changelog>### Changelog 05.07.2017
+Тестовая обнова</Changelog>
 </ROM>
