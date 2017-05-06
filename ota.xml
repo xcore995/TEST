@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>Lineage 14.1</RomName>
-  <VersionName>14.1</VersionName>
+  <VersionName>Сборка от 17.04.2017</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170507</VersionNumber>
+  <VersionNumber type="integer">20170417</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -31,7 +31,7 @@
   <WebsiteURL>http://4pda.ru/forum/index.php?showuser=4509151</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>DONATE URL HERE</DonateURL>
+  <DonateURL>money.yandex.ru/to/410012996231186</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20150105
