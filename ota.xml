@@ -2,38 +2,41 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>Lineage 14.1</RomName>
-  <VersionName>magna_test_update</VersionName>
+  <VersionName>lineage-14.1-20170515-UNOFFICIAL-magna</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170507</VersionNumber>
+  <VersionNumber type="integer">20170515</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>https://github.com/xcore995/TEST/raw/master/builds/Upadte1.zip</DirectUrl>
+  <DirectUrl>https://github.com/xcore995/TEST/releases/download/v1.0/lineage-14.1-20170515-UNOFFICIAL-magna.zip</DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>98e9403df7fcf2b89fbfe5f64bda9780</CheckMD5>
+  <CheckMD5>ba07b808afba0cdce9131325ef535544</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">302566</FileSize>
+  <FileSize type="integer">310647690</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>xcore_rj</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>http://4pda.ru/forum/index.php?showuser=4509151</WebsiteURL>
+  <WebsiteURL>http://4pda.ru/forum/index.php?showtopic=718964&st=2720#entry60133782</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
   <DonateURL>http://money.yandex.ru/to/410012996231186</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 05.07.2017
-Тестовая обнова</Changelog>
+  <Changelog>### Changelog 15.05.2017
+Обновил исходники
+Из заметного - новый легкий браузер Jelly от команды Lineage + автояркость в шторке
+Заменил Lineage updater на OTAUPDATE
+Обновление безопасности от 5-ого мая</Changelog>
 </ROM>
