@@ -28,7 +28,7 @@
   <Developer>xcore_rj</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>http://4pda.ru/forum/index.php?showtopic=718964&st=2720#entry60133782</WebsiteURL>
+  <WebsiteURL>"http://4pda.ru/forum/index.php?showtopic=718964&st=2720#entry60133782"</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
   <DonateURL>http://money.yandex.ru/to/410012996231186</DonateURL>
