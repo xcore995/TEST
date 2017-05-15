@@ -35,7 +35,7 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 15.05.2017
-Обновил исходники &#xD
+Обновил исходники &#13;
 Из заметного - новый легкий браузер Jelly от команды Lineage + автояркость в шторке &#xD
 Заменил Lineage updater на OTAUPDATE
 Обновление безопасности от 5-ого мая</Changelog>
