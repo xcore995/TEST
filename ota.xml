@@ -2,27 +2,27 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>Lineage 14.1</RomName>
-  <VersionName>lineage-14.1-20170515-UNOFFICIAL-magna</VersionName>
+  <VersionName>lineage-14.1-20170621-UNOFFICIAL-my90ds</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170515</VersionNumber>
+  <VersionNumber type="integer">20170619</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>https://github.com/xcore995/TEST/releases/download/v1.0/lineage-14.1-20170515-UNOFFICIAL-magna.zip</DirectUrl>
+  <DirectUrl>https://github.com/xcore995/TEST/releases/download/1.1/lineage-14.1-20170621-UNOFFICIAL-my90ds.zip</DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>6a9395d48e79e11f1e6a3b795f9a5789</CheckMD5>
+  <CheckMD5>fe3133954dd83fe23c434c9a035a3f26</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">310647690</FileSize>
+  <FileSize type="integer">310174958</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>xcore_rj</Developer>
@@ -34,9 +34,9 @@
   <DonateURL>http://money.yandex.ru/to/410012996231186</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 15.05.2017
+  <Changelog>### Changelog 19.06.2017
 Обновил исходники &#10;
-Из заметного - новый легкий браузер Jelly от команды Lineage + автояркость в шторке &#10;
-Заменил Lineage updater на OTAUPDATE &#10;
-Обновление безопасности от 5-ого мая</Changelog>
+Из заметного - дабл тап на локскрине &#10;
+Забыл включить в прошивку патч для звука, если надо качайте отдельно. &#10;
+Обновление безопасности от 5-ого июня</Changelog>
 </ROM>
